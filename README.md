@@ -1,3 +1,2 @@
 # Hello-World
-Yet another repository 
-do not mind
+First repo on GH
